@@ -42,7 +42,7 @@ export const Container = styled.div`
   }
 
   p {
-    color: #9b59b6;
+    color: #278800;
     margin-top: 2.5rem;
     font-weight: bold;
   }
